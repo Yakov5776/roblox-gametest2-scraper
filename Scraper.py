@@ -34,7 +34,6 @@ contents = [
     "Libraries.zip",
     "rbxManifest.txt",
     "redist.zip",
-    "shaders.zip",
     "RobloxApp.zip"
 ]
 
